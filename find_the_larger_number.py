@@ -5,7 +5,7 @@ num1 = float(input("Enter a number: "))
 num2 = float(input("Enter another number: "))
 # Compare the 2 numbers
 if num1 == num2:
-    print("The two numbers are equal.")
+    print( )
 elif num1 > num2:
     print(num1)
 else:
