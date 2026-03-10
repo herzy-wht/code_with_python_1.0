@@ -3,4 +3,5 @@
 for i in range (101):
     #Identify if the number is divisible by 10 then print nothing
     if i % 10 == 0:
-        print("\n ")
+        print("\n")
+    print(i)
