@@ -2,7 +2,5 @@
 #Print 0 to 100
 for i in range (1, 100):
     #Identify if the number is divisible by 10 then print nothing
-    if i % 10 == 0:
-        print(end='')
-    else:
+    if i % 10 != 0:
         print(i)
