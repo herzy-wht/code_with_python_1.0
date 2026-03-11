@@ -2,5 +2,5 @@
 #Input name
 name = str(input("Enter your name: "))
 #Print in capital letter
-
+print(name.upper())
 
