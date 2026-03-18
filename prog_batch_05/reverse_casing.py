@@ -7,3 +7,4 @@ for letter in name:
         print(letter.lower(), end="")
     else:
         print(letter.upper(), end="")
+
